@@ -1,0 +1,1006 @@
+{
+  "status": "ok",
+  "totalResults": 7375,
+  "articles": [
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Valentin Baudry",
+      "title": "Natation : dans le sillage de Léon Marchand, une nouvelle vague bleue",
+      "description": "Avec trois nouvelles médailles, dont une d’or, remportées mercredi aux championnats du monde, l’équipe de France de natation est portée par une nouvelle génération, aussi prometteuse que brillante.",
+      "url": "https://www.lemonde.fr/sport/article/2022/06/22/natation-dans-le-sillage-de-leon-marchand-une-nouvelle-vague-bleue_6131632_3242.html",
+      "urlToImage": "https://img.lemde.fr/2022/06/22/0/0/4000/2666/1440/960/60/0/6c03f62_5528711-01-06.jpg",
+      "publishedAt": "2022-06-22T18:33:16Z",
+      "content": "Léon Marchand, mercredi 22 juin, à Budapest. ATTILA KISBENEDEK / AFP\r\nDéchirée aux Jeux olympiques de Rio, en 2016, puis dépitée par ceux de Tokyo, en 2021, léquipe de France de natation semble renaî… [+6753 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Antoine Gautherie",
+      "title": "Microsoft Edge se dote de nouvelles fonctionnalités dédiées au gaming",
+      "description": "Le navigateur de Microsoft se dote de nouvelles fonctionnalités pensées pour les joueurs dans l'espoir de concurrencer Chrome.\nMicrosoft Edge se dote de nouvelles fonctionnalités dédiées au gaming",
+      "url": "https://www.journaldugeek.com/2022/06/24/microsoft-edge-se-dote-de-nouvelles-fonctionnalites-dediees-au-gaming/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/dfgfg.jpg",
+      "publishedAt": "2022-06-24T11:00:39Z",
+      "content": "Le navigateur de Microsoft se dote de nouvelles fonctionnalités pensées pour les joueurs dans l'espoir de concurrencer Chrome.Internet Explorer a beau être officiellement mort et enterré depuis peu, … [+2333 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Hadrien Augusto",
+      "title": "Des nouvelles de TomTom, en 2022",
+      "description": "L'année ne promet rien de bon chez TomTom. La société mise tout sur une nouveauté prévue pour décembre.",
+      "url": "https://www.presse-citron.net/?p=501373",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/06/TomTom-2022.jpg",
+      "publishedAt": "2022-06-02T11:30:28Z",
+      "content": "À Amsterdam, là où tout à commencé en 1991, lambiance est morose chez TomTom. Lautomatisation de la conception des cartographies précipitera une vague de licenciements de 500 employés ces prochaines … [+2942 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Anh Phan",
+      "title": "Apple Plans continue de s’améliorer en France",
+      "description": "Apple continue de mettre à jour ses cartes et ses voitures parcourront toute la France cet été pour préparer l'arrivée de ses nouvelles cartes et de ses nouvelles fonctionnalités en France.\nApple Plans continue de s’améliorer en France",
+      "url": "https://www.journaldugeek.com/2022/05/31/apple-plans-continue-de-sameliorer-en-france/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/apple-plans-2-1500x888.png",
+      "publishedAt": "2022-05-31T08:05:20Z",
+      "content": "Apple continue de mettre à jour ses cartes et ses voitures parcourront toute la France cet été pour préparer l'arrivée de ses nouvelles cartes et de ses nouvelles fonctionnalités en France.Il y a enc… [+2454 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Olivier",
+      "title": "Xiaomi : deux nouvelles paires d’écouteurs très abordables avec réduction active du bruit",
+      "description": "Difficile de ne pas trouver pléthore d'écouteurs sans fil chez tous les constructeurs. Il y a tellement de références qu'il est bien difficile de faire son choix ! Xiaomi, au travers de sa marque Redmi, en a d'ailleurs ajouté deux nouvelles paires.\nXiaomi : d…",
+      "url": "https://www.journaldugeek.com/2022/05/30/xiaomi-deux-nouvelles-paires-decouteurs-tres-abordables-avec-reduction-active-du-bruit/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/sans-titre-4-67.jpg",
+      "publishedAt": "2022-05-30T06:30:53Z",
+      "content": "Difficile de ne pas trouver pléthore d'écouteurs sans fil chez tous les constructeurs. Il y a tellement de références qu'il est bien difficile de faire son choix ! Xiaomi, au travers de sa marque Red… [+1915 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Jean-Yves Alric",
+      "title": "Star Wars : Taika Waititi donne des nouvelles de son film",
+      "description": "Le cinéaste a donné quelques détails sur la préparation de son long-métrage Star Wars.",
+      "url": "https://www.presse-citron.net/?p=502637",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2021/11/1280px-Star_Wars_Logo.svg_.png",
+      "publishedAt": "2022-06-13T08:00:37Z",
+      "content": "Alors que la saga Star Wars multiplie les séries sur Disney+, les plans de Lucasfilm sont bien moins clairs en ce qui concerne le cinéma. Officiellement, Rogue Squadron, le long-métrage signé Patty J… [+1812 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Setra",
+      "title": "Mozilla Firefox annonce de nouvelles mesures radicales contre les cookies",
+      "description": "Mozilla Firefox muscle sa protection anti-cookies tiers. Pendant ce temps, Google continue à développer des technologies alternatives qui lui permettront de bloquer ces cookies sur Chrome.",
+      "url": "https://www.presse-citron.net/mozilla-firefox-annonce-de-nouvelles-mesures-radicales-contre-les-cookies/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2020/04/Meilleurs-VPN-Mozilla-Firefox.jpg",
+      "publishedAt": "2022-06-15T13:45:07Z",
+      "content": "Face à la domination du marché des navigateurs par Google Chrome, Mozilla Firefox essaie de se démarquer en mettant laccent sur la confidentialité. Et cela fait des années que celui-ci propose une pr… [+3425 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Elisa Rahouadj",
+      "title": "Jouer aux jeux Xbox sans console, ce sera bientôt possible",
+      "description": "Microsoft donne des nouvelles de son application de jeu en streaming Xbox pour Smart TVs qui arrive bientôt. \nJouer aux jeux Xbox sans console, ce sera bientôt possible",
+      "url": "https://www.journaldugeek.com/2022/06/13/jouer-aux-jeux-xbox-sans-console-ce-sera-bientot-possible/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/template-jdg-2022-06-10t100655-032.jpg",
+      "publishedAt": "2022-06-13T08:00:15Z",
+      "content": "Microsoft donne des nouvelles de son application de jeu en streaming Xbox pour Smart TVs qui arrive bientôt.Si vous possédez une Smart TV Samsung, aujourd’hui est votre jour de chance. Microsoft anno… [+2400 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Julie Hay",
+      "title": "Les Nouveaux Héros : l’adorable Baymax signe son retour sur Disney+ !",
+      "description": "Le robot marshmallow le plus mignon de l'univers Disney revient pour de nouvelles aventures sur la plateforme. \nLes Nouveaux Héros : l’adorable Baymax signe son retour sur Disney+ !",
+      "url": "https://www.journaldugeek.com/2022/05/25/les-nouveaux-heros-ladorable-baymax-signe-son-retour-sur-disney/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/jdg46.jpg",
+      "publishedAt": "2022-05-25T10:00:09Z",
+      "content": "Le robot marshmallow le plus mignon de l'univers Disney revient pour de nouvelles aventures sur la plateforme.Disney+ multiplie les spin-offs et autres productions dérivées. Alors que la firme est pl… [+2305 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Amandine Jonniaux",
+      "title": "Philips Hue dévoile une lampe nomade et plusieurs objets connectés",
+      "description": "La marque a officialisé le lancement de plusieurs nouvelles lampes ainsi qu'un nouvel accessoire connecté. \nPhilips Hue dévoile une lampe nomade et plusieurs objets connectés",
+      "url": "https://www.journaldugeek.com/2022/06/22/philips-hue-devoile-une-lampe-nomade-et-plusieurs-objets-connectes/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/template-jdg-2022-06-22t084000-520.jpg",
+      "publishedAt": "2022-06-22T08:30:27Z",
+      "content": "La marque a officialisé le lancement de plusieurs nouvelles lampes ainsi qu'un nouvel accessoire connecté.La gamme Philips Hue continue de s’agrandir, et propose désormais toute un panel de produits … [+3008 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Setra",
+      "title": "Twitter : quels sont les projets d’Elon Musk en matière de cryptos ?",
+      "description": "Une fois Twitter racheté par Musk, le réseau social devrait faire de nouvelles annonces concernant les cryptomonnaies.",
+      "url": "https://www.presse-citron.net/twitter-quels-sont-les-projets-delon-musk-en-matiere-de-cryptos/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/04/Twitter-1.jpg",
+      "publishedAt": "2022-06-20T07:00:16Z",
+      "content": "Contrairement à Bill Gates, qui estime que les cryptos et les NFT ne valent rien, Elon Musk est favorable aux actifs numériques. Le patron de Tesla est dailleurs lun des supporteurs du Dogecoin, qui … [+3797 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Julie Hay",
+      "title": "Joker : Todd Philipps a une très bonne nouvelle",
+      "description": "Todd Phillips donne des nouvelles de Joker 2, et elles sont très très bonnes. Où en est le mystérieux projet ? \nJoker : Todd Philipps a une très bonne nouvelle",
+      "url": "https://www.journaldugeek.com/2022/06/08/joker-todd-philipps-a-une-tres-bonne-nouvelle/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/03/joker.jpg",
+      "publishedAt": "2022-06-08T11:30:58Z",
+      "content": "Todd Phillips donne des nouvelles de Joker 2, et elles sont très très bonnes. Où en est le mystérieux projet ?Warner Bros ne va pas laisser le Joker de Joaquin Phoenix dormir très longtemps. Après un… [+2488 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Elisa Rahouadj",
+      "title": "10 ans après, ce jeu vidéo signe son grand retour",
+      "description": "Capcom dévoile la suite d'une de ses franchises, qui n'avait pas donné de ses nouvelles depuis quelques années.\n10 ans après, ce jeu vidéo signe son grand retour",
+      "url": "https://www.journaldugeek.com/2022/06/17/10-ans-apres-ce-jeu-video-signe-son-grand-retour/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/sans-titre-45-1.jpg",
+      "publishedAt": "2022-06-17T13:30:04Z",
+      "content": "Capcom dévoile la suite d'une de ses franchises, qui n'avait pas donné de ses nouvelles depuis quelques années.Cette année, Capcom fête les 10 ans d’une de ses franchises les plus appréciées, on a no… [+1704 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Chris' Klippel",
+      "title": "PlayStation prépare une “DualSense Pro” pour la PS5",
+      "description": "Sony développe actuellement de nouvelles manettes DualSense « Pro » pour la PS5 pour les joueurs compétitifs…",
+      "url": "https://www.presse-citron.net/playstation-prepare-une-dualsense-pro-pour-la-ps5/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2020/09/Dualsense-PS5.jpg",
+      "publishedAt": "2022-06-16T06:00:23Z",
+      "content": "Depuis sa sortie en novembre 2020, la PlayStation 5 fait lunanimité concernant sa DualSense. Véritable révolution, la manette de la PS5 est un bijou technologique qui propose de nombreuses fonctionna… [+1822 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Antoine Gautherie",
+      "title": "NASA : on sait enfin qui va construire les nouvelles combinaisons spatiales",
+      "description": "La NASA va enfin pouvoir souffler et se concentrer sur le reste des préparatifs d'Artemis 3; Axiom Aerospace et Collins Aerospace se chargeront de la nouvelle génération de combinaisons xEMU.\nNASA : on sait enfin qui va construire les nouvelles combinaisons s…",
+      "url": "https://www.journaldugeek.com/2022/06/02/nasa-on-sait-enfin-qui-va-construire-les-nouvelles-combinaisons-spatiales/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/xemu.jpg",
+      "publishedAt": "2022-06-02T14:00:02Z",
+      "content": "La NASA va enfin pouvoir souffler et se concentrer sur le reste des préparatifs d'Artemis 3; Axiom Aerospace et Collins Aerospace se chargeront de la nouvelle génération de combinaisons xEMU.Après un… [+4143 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Thomas Estimbre",
+      "title": "Sony lance 3 nouvelles optiques grand-angle pour ses hybrides APS-C",
+      "description": "Sony annonce aujourd’hui l’arrivée de trois nouveaux objectifs en monture. Les E 11 mm f/1,8, E 15 mm f/1,4 et E PZ 10-20 mm f/4 G se destinent aux boîtiers hybrides APS-C, misant sur une approche, légère et grand-angle.\nSony lance 3 nouvelles optiques grand-…",
+      "url": "https://www.journaldugeek.com/2022/06/02/sony-lance-3-nouvelles-optiques-grand-angle-pour-ses-hybrides-aps-c/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/sony-e-11mm.jpg",
+      "publishedAt": "2022-06-02T06:30:35Z",
+      "content": "Sony annonce aujourdhui larrivée de trois nouveaux objectifs en monture. Les E 11 mm f/1,8, E 15 mm f/1,4 et E PZ 10-20 mm f/4 G se destinent aux boîtiers hybrides APS-C, misant sur une approche, lég… [+4422 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Antoine Gautherie",
+      "title": "Guerre en Ukraine : la Russie privée de nouvelles technologies par Taïwan",
+      "description": "En réaction à l'invasion russe en Ukraine, le gouvernement de Taïwan vient de prendre une série de sanctions contre le pays de Vladimir Poutine et le Belarus.\nGuerre en Ukraine : la Russie privée de nouvelles technologies par Taïwan",
+      "url": "https://www.journaldugeek.com/2022/06/03/guerre-en-ukraine-la-russie-privee-de-nouvelles-technologies-par-taiwan/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/fgh.jpg",
+      "publishedAt": "2022-06-03T14:30:32Z",
+      "content": "En réaction à l'invasion russe en Ukraine, le gouvernement de Taïwan vient de prendre une série de sanctions contre le pays de Vladimir Poutine et le Belarus.Dans la foulée de nombreux pays européens… [+4232 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Olivier",
+      "title": "Les nouvelles Forerunner 255 et 955 de Garmin vont vous faire courir",
+      "description": "Garmin renforce sa gamme de montres connectées Forerunner avec deux nouveaux modèles : les Forerunner 255 et Forerunner 955. Destinés aux plus sportifs, ces gammes se démultiplient en plusieurs versions. Tentons d'y voir plus clair.\nLes nouvelles Forerunner 2…",
+      "url": "https://www.journaldugeek.com/2022/06/06/les-nouvelles-forerunner-255-et-955-de-garmin-vont-vous-faire-courir/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/sans-titre-4-7.png",
+      "publishedAt": "2022-06-06T12:00:12Z",
+      "content": "Garmin renforce sa gamme de montres connectées Forerunner avec deux nouveaux modèles : les Forerunner 255 et Forerunner 955. Destinés aux plus sportifs, ces gammes se démultiplient en plusieurs versi… [+1847 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Arthur Nicolle",
+      "title": "Bethesda donne des nouvelles de Fallout 5 et The Elder Scrolls 6",
+      "description": "Starfield est la vedette du moment mais le studio Bethesda nous en dit plus au sujet des autres licences phares en cours de développement.\nBethesda donne des nouvelles de Fallout 5 et The Elder Scrolls 6",
+      "url": "https://www.journaldugeek.com/2022/06/15/bethesda-donne-des-nouvelles-de-fallout-5-et-the-elder-scrolls-6/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/ajouter-un-titre-2.jpg",
+      "publishedAt": "2022-06-15T15:00:56Z",
+      "content": "Starfield est la vedette du moment mais le studio Bethesda nous en dit plus au sujet des autres licences phares en cours de développement.Au cours du Xbox Games Showcase, Bethesda a fait lunanimité a… [+2001 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Arthur Nicolle",
+      "title": "Sonic Frontiers nous montre ses airs de Breath of the Wild à toute vitesse",
+      "description": "De nouvelles images de gameplay de Sonic Frontiers nous en dévoilent plus sur la dimension ouverte des dernières aventures du hérisson bleu.\nSonic Frontiers nous montre ses airs de Breath of the Wild à toute vitesse",
+      "url": "https://www.journaldugeek.com/2022/06/01/sonic-frontiers-nous-montre-ses-airs-de-breath-of-the-wild-a-toute-vitesse/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/template-jdg-2022-06-01t122222-097.jpg",
+      "publishedAt": "2022-06-01T15:30:17Z",
+      "content": "De nouvelles images de gameplay de Sonic Frontiers nous en dévoilent plus sur la dimension ouverte des dernières aventures du hérisson bleu.De vastes plaines verdoyantes, une ambiance mystique et dét… [+2853 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Arthur Nicolle",
+      "title": "Star Wars Jedi : Survivor fera suite à Fallen Order très prochainement",
+      "description": "La suite du souls-like Star Wars donne enfin de ses nouvelles à l’occasion de la Star Wars Celebration à Anaheim en Californie.\nStar Wars Jedi : Survivor fera suite à Fallen Order très prochainement",
+      "url": "https://www.journaldugeek.com/2022/05/30/star-wars-jedi-survivor-fera-suite-a-fallen-order-tres-prochainement/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/star-wars-jedi-survivor.jpg",
+      "publishedAt": "2022-05-30T12:00:13Z",
+      "content": "La suite du souls-like Star Wars donne enfin de ses nouvelles à loccasion de la Star Wars Celebration à Anaheim en Californie.Après de nombreux leaks publiés ici et là au cours des dernières semaines… [+2461 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Tristan",
+      "title": "Galaxy Z Fold et Flip 4 : on prend les mêmes et on recommence ?",
+      "description": "Samsung devrait présenter au cours du mois d'aout les deux nouvelles vesions de ses téléphones pliables, les Z Fold et Z Flip 4. \nGalaxy Z Fold et Flip 4 : on prend les mêmes et on recommence ?",
+      "url": "https://www.journaldugeek.com/2022/06/14/galaxy-z-fold-et-flip-4-on-prend-les-memes-et-on-recommence/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/galaxy-z-fold4-design.jpg",
+      "publishedAt": "2022-06-14T11:00:24Z",
+      "content": "Samsung devrait présenter au cours du mois d'aout les deux nouvelles vesions de ses téléphones pliables, les Z Fold et Z Flip 4.Dans un peu moins de deux mois, la firme coréenne Samsung devrait prése… [+2373 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Elisa Rahouadj",
+      "title": "PlayStation Plus Juin : Sony propose du lourd avant la refonte de son service",
+      "description": "Pour le deuxième mois consécutif, Sony offre des jeux incroyables à ses abonnés PlayStation Plus juste avant la mise en place des nouvelles formules. \nPlayStation Plus Juin : Sony propose du lourd avant la refonte de son service",
+      "url": "https://www.journaldugeek.com/2022/06/02/playstation-plus-juin-sony-propose-du-lourd-avant-la-refonte-de-son-service/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/03/template-jdg-2022-03-29t152222-308.jpg",
+      "publishedAt": "2022-06-02T10:00:05Z",
+      "content": "Pour le deuxième mois consécutif, Sony offre des jeux incroyables à ses abonnés PlayStation Plus juste avant la mise en place des nouvelles formules.C’est le dernier mois avant que le choc des titans… [+3182 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Arthur Nicolle",
+      "title": "Le jeu Gollum se trouve une précieuse date de sortie et c’est pour bientôt",
+      "description": "Le nouveau titre inspiré du Seigneur des Anneaux donne de ses nouvelles et prépare son arrivée pour la rentrée prochaine.\nLe jeu Gollum se trouve une précieuse date de sortie et c’est pour bientôt",
+      "url": "https://www.journaldugeek.com/2022/05/26/le-jeu-gollum-se-trouve-une-precieuse-date-de-sortie-et-cest-pour-bientot/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/template-jdg-56.jpg",
+      "publishedAt": "2022-05-26T07:00:19Z",
+      "content": "Le nouveau titre inspiré du Seigneur des Anneaux donne de ses nouvelles et prépare son arrivée pour la rentrée prochaine.À défaut de réussir à trouver son précieux, Gollum a réussi à se dégoter une d… [+1866 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Arthur Nicolle",
+      "title": "Kung-Fu Panda signe un retour fracassant sur Netflix avec sa propre série",
+      "description": "Po le panda va avoir le droit à de nouvelles aventures au travers d’une série animée exclusive sur Netflix.\nKung-Fu Panda signe un retour fracassant sur Netflix avec sa propre série",
+      "url": "https://www.journaldugeek.com/2022/06/18/kung-fu-panda-signe-un-retour-fracassant-sur-netflix-avec-sa-propre-serie/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/template-jdg-15.jpg",
+      "publishedAt": "2022-06-18T06:00:16Z",
+      "content": "Po le panda va avoir le droit à de nouvelles aventures au travers dune série animée exclusive sur Netflix.Petit panda deviendra grand, et depuis sa première aventure, Po a fait un vrai bout de chemin… [+1979 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Elisa Rahouadj",
+      "title": "La première PS5 Slim fait une apparition inattendue",
+      "description": "A défaut d'avoir des nouvelles de Sony, un fan crée la toute première PS5 Slim du marché. On est pas sûr qu'on l'achèterait. \nLa première PS5 Slim fait une apparition inattendue",
+      "url": "https://www.journaldugeek.com/2022/06/21/la-premiere-ps5-slim-fait-une-apparition-inattendue/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/copie-de-copie-de-vacances.jpg",
+      "publishedAt": "2022-06-21T14:30:27Z",
+      "content": "A défaut d'avoir des nouvelles de Sony, un fan crée la toute première PS5 Slim du marché. On est pas sûr qu'on l'achèterait.DIY Perks est un youtubeur plein de ressources et extrêmement ingénieux. Au… [+2278 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Julie Hay",
+      "title": "Deadpool 3 : voici pourquoi vous ne le verrez pas de sitôt !",
+      "description": "Le scénariste de Deadpool 3 donne des nouvelles du film développé par Disney, et elles sont plutôt rassurantes. \nDeadpool 3 : voici pourquoi vous ne le verrez pas de sitôt !",
+      "url": "https://www.journaldugeek.com/2022/06/10/deadpool-3-voici-pourquoi-vous-ne-le-verrez-pas-de-sitot/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/10/template-images-jdg-pptx85.jpg",
+      "publishedAt": "2022-06-10T17:30:32Z",
+      "content": "Le scénariste de Deadpool 3 donne des nouvelles du film développé par Disney, et elles sont plutôt rassurantes.Chaque jour qui passe est de plus en plus douloureux pour les fans de Deadpool. Le const… [+2901 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Chris' Klippel",
+      "title": "La PS5 Pro et la nouvelle Xbox Series X confirmées par un gros groupe high-tech",
+      "description": "Selon un grand groupe de la Tech, la PS5 Pro et les nouvelles Xbox Series X/S sont bien en développement et pourraient arriver en 2023/2024 !",
+      "url": "https://www.presse-citron.net/la-ps5-pro-et-la-nouvelle-xbox-series-x-confirmees-par-un-gros-groupe-high-tech/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2019/12/logo-ps5-pro.jpg",
+      "publishedAt": "2022-05-28T13:15:13Z",
+      "content": "Depuis plusieurs mois, les rumeurs enflent autour des nouveaux modèles de PS5 et de Xbox Series X. Il y a deux ans déjà, Sony nexcluait pas lidée de pouvoir avoir des consoles intermédiaires comme av… [+1889 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "RPB",
+      "title": "Cybertruck : design, date… Tesla donne enfin des nouvelles du pick-up",
+      "description": "Elon Musk donne dans une interview sur YouTube quelles nouvelles du Cybertruck, et une indication sur la date du début de la production du véhicule.",
+      "url": "https://www.presse-citron.net/?p=504257",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/01/cybertruck.jpg",
+      "publishedAt": "2022-06-23T12:15:54Z",
+      "content": "Elon Musk révèle que les équipes de Tesla se sont laissées un peu “emporter” par les changements design du Cybertruck – ce qui aurait en grande partie retardé la sortie du pickup prévue à l’origine e… [+2121 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Setra",
+      "title": "Pièce d’identité, IA, garants : voici comment Instagram va vérifier l’âge de ses utilisateurs",
+      "description": "Instagram teste de nouvelles procédures pour vérifier l’âge de ses utilisateurs, dont l’utilisation d’une intelligence artificielle qui estime l’âge à partir d’un selfie.",
+      "url": "https://www.presse-citron.net/piece-didentite-ia-garants-voici-comment-instagram-va-verifier-lage-de-ses-utilisateurs/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2020/01/instagram-ordinateur.jpg",
+      "publishedAt": "2022-06-24T07:00:42Z",
+      "content": "Lannée dernière, Instagram a déployé un certain nombre de fonctionnalités afin de protéger les utilisateurs âgés de moins de 18 ans. Mais afin que ces mesures soient efficaces, le réseau social a bes… [+3691 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slate.fr" },
+      "author": "Denis Pessin",
+      "title": "Pas de nouvelles, bonnes nouvelles",
+      "description": "DESSINS D'ACTU - Pas de nouvelles, bonnes nouvelles par Denis Pessin",
+      "url": "http://www.slate.fr/story/229691/pessin-pas-de-nouvelles-bonnes-informations-secheresse-inondations-guerre-ukraine-covid-macron-assemblee",
+      "urlToImage": "http://www.slate.fr/sites/default/files/styles/1200x680/public/pas_de_nouvelles_bonnes_nouvelles.jpg",
+      "publishedAt": "2022-06-24T13:10:00Z",
+      "content": "Publié le 24 juin 2022 à 15h10"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "RPB",
+      "title": "Google Docs : vous allez gagner un temps fou avec cette mise à jour",
+      "description": "Google Docs se dote de nouvelles fonctionnalités - avec l'arrivée notoire des sélections multiples. Désormais il est possible de sélectionner plusieurs parties distinctes du texte comme dans les applications de bureau.",
+      "url": "https://www.presse-citron.net/google-docs-vous-allez-gagner-un-temps-fou-avec-cette-mise-a-jour/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/05/google-docs-selection.jpg",
+      "publishedAt": "2022-05-27T06:30:22Z",
+      "content": "Sur Windows, Linux et sur Mac, il est possible dans à peu près n’importe quelle application de faire des sélections de texte multiples. A savoir sélectionner par exemple un paragraphe, puis un autre … [+2259 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Manon Carpentier",
+      "title": "Voyageurs en solo, Airbnb dévoile des nouvelles fonctionnalités pour votre sécurité",
+      "description": "La sécurité lorsqu’on voyage est primordiale, surtout quand on est seul.",
+      "url": "https://www.presse-citron.net/?p=503226",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/06/voyageur-seul.jpg",
+      "publishedAt": "2022-06-17T06:30:02Z",
+      "content": "Après de longs mois de crise sanitaire mondiale, beaucoup veulent rattraper le temps perdu et reprendre leur exploration du monde. Avec la démocratisation du télétravail, suite à cette pandémie, de n… [+2273 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Vincent Sergère",
+      "title": "Tesla Cybertruck : design et production, les nouvelles rassurantes d’Elon Musk",
+      "description": "Lors d'une interview, Elon Musk a confirmé que le design final du Cybertruck de Tesla venait d'être validé. Le milliardaire en a profité pour annoncer une nouvelle date de début de production : à la mi-2023. Le Cybertruck de Tesla se fait attendre depuis plus…",
+      "url": "https://www.frandroid.com/marques/tesla/1375599_tesla-cybertruck-le-design-est-enfin-valide-et-la-production-confirmee",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2019/11/tesla-cybertruck.jpg",
+      "publishedAt": "2022-06-23T09:09:58Z",
+      "content": "Lors d'une interview, Elon Musk a confirmé que le design final du Cybertruck de Tesla venait d'être validé. Le milliardaire en a profité pour annoncer une nouvelle date de début de production : à la … [+1931 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Renaud Labracherie",
+      "title": "Actualité : ProtonMail change de nom et propose nouvelles offres",
+      "description": "Ne l'appelez plus ProtonMail, mais simplement Proton. Ce 25 mai 2022, l'éditeur suisse du service de mail qui met l'accent sur le respect de la vie privée a fait sa mue. Des changements visuels, mais également marketing.",
+      "url": "https://www.lesnumeriques.com/appli-logiciel/protonmail-change-de-nom-et-propose-nouvelles-offres-n183939.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/183939/6f74b2cb-protonmail-change-de-nom-et-propose-nouvelles-offres_png__1200_630__366-102-1831-871.jpg",
+      "publishedAt": "2022-05-27T06:17:00Z",
+      "content": "Ne l'appelez plus ProtonMail, mais simplement Proton. Ce 25 mai 2022, l'éditeur suisse du service de mail qui met l'accent sur le respect de la vie privée a fait sa mue. Des changements visuels, mais… [+2573 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Presse-citron",
+      "title": "Avec ses 3 nouveautés, NordVPN va vous faire casser la tirelire",
+      "description": "Seul acteur européen dans le Top 3 mondial des VPN, NordVPN domine le marché français. Le spécialiste en cybersécurité offre un outil complet, facile à prendre en main et sécurisé. Régulièrement, il ajoute de nouvelles fonctionnalités pertinentes.",
+      "url": "https://www.presse-citron.net/avec-ses-3-nouveautes-nordvpn-va-vous-faire-casser-la-tirelire/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/04/Bon-plan-NordVPN-1.jpg",
+      "publishedAt": "2022-05-26T17:47:38Z",
+      "content": "Le VPN est devenu un logiciel quasiment incontournable. En France, 28% des internautes font appel à cet outil, dont une grande partie de novices en technologie. En un clic, le VPN vous ouvre les port… [+5246 chars]"
+    },
+    {
+      "source": { "id": null, "name": "01net.com" },
+      "author": "Geoffroy Ondet",
+      "title": "Google déploie de nouvelles fonctionnalités pour ses Pixel",
+      "description": "Une mise à jour « Pixel Drop » va être déployée sur les Pixel 4 et modèles supérieurs. Parmi les nouvelles fonctions attendues, vous pourrez utiliser vos vidéos personnelles pour faire de la musique, ajouter votre pass vaccinal sur l’écran d’accueil, alerter …",
+      "url": "https://www.01net.com/actualites/google-deploie-de-nouvelles-fonctionnalites-pour-ses-pixel.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2021/10/Google-Pixel-6-Pro-lafamille-1.jpg",
+      "publishedAt": "2022-06-07T13:52:17Z",
+      "content": "Une mise à jour « Pixel Drop » va être déployée sur les Pixel 4 et modèles supérieurs. Parmi les nouvelles fonctions attendues, vous pourrez utiliser vos vidéos personnelles pour faire de la musique,… [+2566 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Thomas Estimbre",
+      "title": "iPad Pro M2 : la date de lancement des tablettes Apple se précise",
+      "description": "Apple devrait bientôt renouveler son iPad Pro pour l’équiper d’une puce M2, ainsi que de la recharge sans fil. Trois nouvelles versions sont attendues, mais seulement deux verraient le jour en 2022. Un nouveau modèle, totalement inédit, sortirait début 2023.\n…",
+      "url": "https://www.journaldugeek.com/2022/06/25/ipad-pro-m2-la-date-de-lancement-des-tablettes-apple-se-precise/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/03/apple-ipad-pro-11-2021.jpg",
+      "publishedAt": "2022-06-25T06:30:59Z",
+      "content": "Apple devrait bientôt renouveler son iPad Pro pour léquiper dune puce M2, ainsi que de la recharge sans fil. Trois nouvelles versions sont attendues, mais seulement deux verraient le jour en 2022. Un… [+2076 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Thomas Estimbre",
+      "title": "Apple prépare de nouveaux MacBook et MacBook Air de 12 et 15 pouces",
+      "description": "Apple a de la suite dans les idées et prévoit d’intégrer sa puce M2 dans de nombreuses machines. Le fabricant proposerait bientôt des MacBook et MacBook Air dans de nouvelles diagonales d’écran.\nApple prépare de nouveaux MacBook et MacBook Air de 12 et 15 pou…",
+      "url": "https://www.journaldugeek.com/2022/06/10/apple-prepare-de-nouveaux-macbook-et-macbook-air-de-12-et-15-pouces/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/apple-mba-m2-2022.jpg",
+      "publishedAt": "2022-06-10T11:30:07Z",
+      "content": "Apple a de la suite dans les idées et prévoit dintégrer sa puce M2 dans de nombreuses machines. Le fabricant proposerait bientôt des MacBook et MacBook Air dans de nouvelles diagonales décran.Les Mac… [+3208 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Thomas Estimbre",
+      "title": "Un nouveau Chromecast pas cher avec Google TV, c’est pour bientôt",
+      "description": "De nouvelles informations laissent à penser que Google aurait un nouveau Chromecast avec Google TV dans ses cartons. Un modèle limité au Full HD qui serait plus abordable que le modèle actuel.\nUn nouveau Chromecast pas cher avec Google TV, c’est pour bientôt",
+      "url": "https://www.journaldugeek.com/2022/06/10/un-nouveau-chromecast-pas-cher-avec-google-tv-cest-pour-bientot/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/chromecast-google-tv.jpg",
+      "publishedAt": "2022-06-10T15:30:23Z",
+      "content": "De nouvelles informations laissent à penser que Google aurait un nouveau Chromecast avec Google TV dans ses cartons. Un modèle limité au Full HD qui serait plus abordable que le modèle actuel.Voilà b… [+2486 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Pierre Crochart",
+      "title": "Lightroom présente ses nouveautés et permet de retoucher des vidéos",
+      "description": "Adobe a présenté hier les nouvelles versions de ses applications créatives. Parmi elles, Lightroom et Lightroom Classic sont particulièrement gâtées grâce à des fonctionnalités inédites.Annoncées en fin de journée ce mardi, les nouvelles versions de Lightroom…",
+      "url": "https://www.frandroid.com/produits-android/photo/1367501_lightroom-presente-ses-nouveautes-et-permet-de-retoucher-des-videos",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/06/lightroom.jpg",
+      "publishedAt": "2022-06-15T08:07:17Z",
+      "content": "Adobe a présenté hier les nouvelles versions de ses applications créatives. Parmi elles, Lightroom et Lightroom Classic sont particulièrement gâtées grâce à des fonctionnalités inédites.\r\nLa nouvelle… [+3613 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Marie Lizak",
+      "title": "Tesla améliore la conduite à une pédale avec une mise à jour logicielle",
+      "description": "Tesla propose une nouvelle mise à jour à ses clients, permettant de profiter de nouvelles fonctionnalités liées notamment à la recharge et à l'autonomie. Depuis ses débuts, Tesla met régulièrement à jour ses véhicules, le plus souvent à distance. De nouvelles…",
+      "url": "https://www.frandroid.com/?p=1348009",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/05/tesla-model-x-interieur-1200x706.jpg",
+      "publishedAt": "2022-05-30T11:16:12Z",
+      "content": "Tesla propose une nouvelle mise à jour à ses clients, permettant de profiter de nouvelles fonctionnalités liées notamment à la recharge et à l'autonomie.\r\nDepuis ses débuts, Tesla met régulièrement à… [+3569 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Geoffroy Husson",
+      "title": "Amazfit Bip 3 Pro : un GPS dans une montre connectée à moins de 70 euros",
+      "description": "Amazfit vient de dévoiler deux nouvelles montres d'entrée de gamme, mais avec un modèle « Pro » doté d'un suivi GPS pour les sportifs. Les produits avaient déjà été lancés maladroitement au Brésil au début du mois, ils sont désormais officiels. Amazfit vient …",
+      "url": "https://www.frandroid.com/marques/amazfit/1368835_amazfit-bip-3-pro-un-gps-dans-une-montre-connectee-a-moins-de-70-euros",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/06/amazfit-bip-3-pro.jpg",
+      "publishedAt": "2022-06-16T09:58:46Z",
+      "content": "Amazfit vient de dévoiler deux nouvelles montres d'entrée de gamme, mais avec un modèle « Pro » doté d'un suivi GPS pour les sportifs. \r\nLAmazfit Bip 3 Pro // Source : Amazfit\r\nLes produits avaient d… [+2673 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Hugo Bernard",
+      "title": "Sony dévoile trois nouvelles enceintes pour l’été : XG300, XE300 et XE200",
+      "description": "C'est bientôt l'été et Sony a prévu le coup. La marque va lancer en juillet trois nouvelles enceintes Bluetooth. Leurs petits noms ? XG300, XE300 et XE200 ; toujours pas sexy, mais heureusement Sony se rattrape sur le design.Sony s’est motivé et va sortir tro…",
+      "url": "https://www.frandroid.com/marques/sony/1354111_sony-devoile-trois-nouvelles-enceintes-pour-lete-xg300-xe300-et-xe200",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/06/sony-xe200-hero-color-3000x2000-large.jpg",
+      "publishedAt": "2022-06-03T10:12:39Z",
+      "content": "C'est bientôt l'été et Sony a prévu le coup. La marque va lancer en juillet trois nouvelles enceintes Bluetooth. Leurs petits noms? XG300, XE300 et XE200; toujours pas sexy, mais heureusement Sony se… [+2661 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Hugo Bernard",
+      "title": "Garmin fait le plein de fonctions sur la course avec deux nouvelles montres connectées",
+      "description": "Garmin annonce deux nouvelles montres connectées dédiées à la course à pied à l'occasion de la journée mondiale de la course à pied. La marque annonce de nouvelles fonction de course, pour contenter les plus sportifs d'entre vous.Après avoir officialisé son b…",
+      "url": "https://www.frandroid.com/marques/garmin/1351195_garmin-fait-le-plein-de-fonctions-sur-la-course-avec-deux-nouvelles-montres-connectees",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/06/garmin.jpg",
+      "publishedAt": "2022-06-01T11:55:44Z",
+      "content": "Garmin annonce deux nouvelles montres connectées dédiées à la course à pied à l'occasion de la journée mondiale de la course à pied. La marque annonce de nouvelles fonction de course, pour contenter … [+4244 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Geoffroy Husson",
+      "title": "Yamaha lance des écouteurs sans fil pour les sportifs et les audiophiles",
+      "description": "Yamaha a dévoilé deux nouvelles paires d'écouteurs sans fil, les Yamaha TW-ES5A et les Yamaha TW-E7B. Déjà présent sur le segment des écouteurs sans fil, le constructeur japonais Yamaha a annoncé ce mardi l’arrivée de deux nouvelles références dans sa gamme, …",
+      "url": "https://www.frandroid.com/produits-android/audio/ecouteurs-true-wireless/1351145_yamaha-lance-des-ecouteurs-sans-fil-pour-les-sportifs-et-les-audiophiles",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/06/twe7b-be-ic-2560.jpg",
+      "publishedAt": "2022-06-07T07:00:33Z",
+      "content": "Yamaha a dévoilé deux nouvelles paires d'écouteurs sans fil, les Yamaha TW-ES5A et les Yamaha TW-E7B. \r\nLes Yamaha TW-E7B // Source : Yamaha\r\nDéjà présent sur le segment des écouteurs sans fil, le co… [+3430 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Hugo Bernard",
+      "title": "Les Chromebook vont encore mieux se connecter aux autres appareils (smartphone, écouteurs)",
+      "description": "Google s'apprête à déployer une mise à jour de Chrome OS qui va apporter de nouvelles fonctions. Les Chromebook vont pouvoir être connectés plus facilement à des écouteurs ou à un smartphone.Chrome OS est un système d’exploitation régulièrement mis à jour et …",
+      "url": "https://www.frandroid.com/os/chrome-os/1377937_les-chromebook-vont-encore-mieux-se-connecter-aux-autres-appareils-smartphone-ecouteurs",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/05/acer-chromebook-317-test-8-scaled.jpg",
+      "publishedAt": "2022-06-24T13:28:17Z",
+      "content": "Google s'apprête à déployer une mise à jour de Chrome OS qui va apporter de nouvelles fonctions. Les Chromebook vont pouvoir être connectés plus facilement à des écouteurs ou à un smartphone.\r\nSource… [+3502 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Romain Challand",
+      "title": "Actualité : Trail, VTT, Gravel… Strava fait le plein de nouveaux sports outdoor",
+      "description": "L'application Strava a été discrètement mise à jour et intègre désormais de nouvelles disciplines sportives d'extérieur. Quelques autres petites fonctionnalités ont également été ajoutées.",
+      "url": "https://www.lesnumeriques.com/vie-du-net/trail-vtt-gravel-strava-fait-le-plein-de-nouveaux-sports-outdoor-n184935.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/184935/95279af0-strava-fait-le-plein-de-nouveaux-sports-outdoor__1200_630__680-819-5057-3117.jpeg",
+      "publishedAt": "2022-06-09T15:56:00Z",
+      "content": "Strava se refait une petite beauté. La plateforme mobile dédiée aux sportifs, qui compte 100 millions dutilisateurs, a fait savoir par communiqué de presse qu'une grosse mise à jour a eu lieu. Si cel… [+1914 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Le Monde",
+      "title": "Guerre en Ukraine, en direct : la Russie a détruit un pont près de Sievierodonetsk",
+      "description": "Il ne reste désormais qu’un seul pont encore debout, sur les trois qui reliaient Sievierodonetsk et Lyssytchansk avant la guerre, ce qui réduit le nombre de routes qui pourraient être empruntées pour évacuer les civils.",
+      "url": "https://www.lemonde.fr/international/live/2022/06/12/guerre-en-ukraine-en-direct-la-russie-a-detruit-un-pont-pres-de-sievierodonetsk_6129889_3210.html",
+      "urlToImage": "https://img.lemde.fr/2022/06/10/249/0/5398/2699/1440/720/60/0/bd0628e_b6142c37959342cf92a3143a64293223-b6142c37959342cf92a3143a64293223-0.jpg",
+      "publishedAt": "2022-06-12T17:38:52Z",
+      "content": "Létat-major ukrainien a affirmé dimanche matin que les Russes menaient « sans succès » des assauts contre Sievierodonetsk, soulignant que les soldats ukrainiens avaient aussi repoussé larmée de Mosco… [+1465 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Le Monde avec AFP",
+      "title": "L’offre et la consommation de drogues en Europe de retour à leur niveau d’avant pandémie, selon un rapport",
+      "description": "L’analyse des eaux usées de vingt-cinq pays révèle une augmentation de la présence de cannabis, cocaïne, amphétamines et métamphétamines. Seule l’ecstasy (et son principe actif, la MDMA) a diminué.",
+      "url": "https://www.lemonde.fr/societe/article/2022/06/14/l-offre-et-la-consommation-de-drogues-en-europe-de-retour-a-leur-niveau-d-avant-pandemie-selon-un-rapport_6130271_3224.html",
+      "urlToImage": "https://img.lemde.fr/2022/06/13/0/1/5998/3999/1440/960/60/0/c432b6e_00d2e1f63bf748e08f44d11211903b0a-00d2e1f63bf748e08f44d11211903b0a-0.jpg",
+      "publishedAt": "2022-06-14T10:33:44Z",
+      "content": "Loffre et la consommation de drogues, légèrement freinées en 2020 par la crise sanitaire, sont revenues en 2021 à leur niveau élevé davant pandémie, selon lObservatoire européen des drogues et des to… [+3180 chars]"
+    },
+    {
+      "source": { "id": null, "name": "01net.com" },
+      "author": "Geoffroy Ondet",
+      "title": "WhatsApp déploie de nouvelles options pour protéger votre vie privée",
+      "description": "L’application de messagerie vient de lancer des nouveaux outils de sécurité pour vous permettre de choisir les contacts autorisés à voir votre photo de profil, vos informations personnelles ainsi que l’heure de votre dernière connexion.\nL'article WhatsApp dép…",
+      "url": "https://www.01net.com/actualites/whatsapp-deploie-de-nouvelles-options-pour-proteger-votre-vie-privee.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2022/03/MEA-WhatsApp-2021.jpg",
+      "publishedAt": "2022-06-20T07:51:13Z",
+      "content": "Lapplication de messagerie vient de lancer des nouveaux outils de sécurité pour vous permettre de choisir les contacts autorisés à voir votre photo de profil, vos informations personnelles ainsi que … [+2436 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Romain Challand",
+      "title": "Actualité : Forerunner 255 & 955 : Garmin lance ses nouvelles montres de running en France",
+      "description": "Garmin profite de la Journée mondiale de la course à pied pour lever le voile sur deux montres connectées. Le modèle Forerunner 255, proposé en quatre versions, alimente le milieu de gamme. La Forerunner 955, elle, s'adresse aux sportifs aguerris.",
+      "url": "https://www.lesnumeriques.com/montre-sport/forerunner-255-955-garmin-lance-ses-nouvelles-montres-de-running-en-france-n184311.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/184311/de3f46f1-garmin-lance-les-forerunner-255-et-forerunner-955-en-france__1200_630__819-860-7372-4300.jpeg",
+      "publishedAt": "2022-06-01T12:04:00Z",
+      "content": "Garmin profite de la Journée mondiale de la course à pied pour lever le voile sur deux montres connectées. Le modèle Forerunner 255, proposé en quatre versions, alimente le milieu de gamme. La Foreru… [+3844 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Ophélie Maillot",
+      "title": "Actualité : Wine Bank 60 : Haier propose deux nouvelles caves à vin connectées",
+      "description": "Lors du Salon du Meuble de Milan, Haier a dévoilé deux nouvelles caves à vin grande capacité : les Wine Bank 60 Series 5 et Series 7. Connectées, elles peuvent se régler à distance et proposent aussi une gestion des stocks en partenariat avec Vivino.",
+      "url": "https://www.lesnumeriques.com/divers-electromenager/wine-bank-60-haier-propose-deux-nouvelles-caves-a-vin-connectees-n185385.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/185385/f2d3f029-wine-bank-60-deux-nouvelles-caves-a-vin-connectees-proposees-par-haier__1200_630__0-752-5983-3893.jpeg",
+      "publishedAt": "2022-06-15T15:03:00Z",
+      "content": "Lors du Salon du Meuble de Milan, Haier a dévoilé deux nouvelles caves à vin grande capacité : les Wine Bank 60 Series 5 et Series 7. Connectées, elles peuvent se régler à distance et proposent aussi… [+3335 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Amandine Jonniaux",
+      "title": "Deepfake : Facebook, Google et Twitter vont devoir agir, et vite",
+      "description": "L'Union Européenne vient d'ordonner aux GAFAM de prendre leurs responsabilités dans la lutte contre les deepfakes.\nDeepfake : Facebook, Google et Twitter vont devoir agir, et vite",
+      "url": "https://www.journaldugeek.com/2022/06/16/deepfake-facebook-google-et-twitter-vont-devoir-agir-et-vite/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2020/01/capture-decran-2020-01-14-a-14-34-48.png",
+      "publishedAt": "2022-06-16T09:00:04Z",
+      "content": "L'Union Européenne vient d'ordonner aux GAFAM de prendre leurs responsabilités dans la lutte contre les deepfakes.Après le règne des fake news, l’époque est désormais aux deepfakes. Sur les réseaux s… [+2589 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Arthur Nicolle",
+      "title": "Pokémon GO : une mise à jour venue d’un autre monde fait son arrivée",
+      "description": "Il sera bientôt possible de capturer des Pokémon venant d’une autre dimension grâce à cette nouvelle mise à jour “ultra” cool.\nPokémon GO : une mise à jour venue d’un autre monde fait son arrivée",
+      "url": "https://www.journaldugeek.com/2022/05/30/pokemon-go-une-mise-a-jour-venue-dun-autre-monde-fait-son-arrivee/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/template-jdg-59.jpg",
+      "publishedAt": "2022-05-30T15:30:04Z",
+      "content": "Il sera bientôt possible de capturer des Pokémon venant dune autre dimension grâce à cette nouvelle mise à jour ultra cool.Le jeu à succès de Niantic continu détendre son contenu en sinspirant à nouv… [+2197 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Mediapart" },
+      "author": "Marine Turchi, Ellen Salvi",
+      "title": "Violences sexuelles: de nouvelles accusations visent le ministre Damien Abad",
+      "description": "Mediapart a recueilli de nouveaux témoignages mettant en cause le comportement avec les femmes du ministre des solidarités, Damien Abad, dont celui d’une élue centriste qui dénonce une tentative de viol en 2010. Le ministre n’a pas répondu à nos questions.",
+      "url": "https://www.mediapart.fr/journal/france/140622/violences-sexuelles-de-nouvelles-accusations-visent-le-ministre-damien-abad",
+      "urlToImage": "https://static.mediapart.fr/etmagine/og/journal/files/2022/06/13/20220613-img-violences-sexuelles-de-nouvelles-accusations-visent-le-ministre-damien-abad-1.jpg",
+      "publishedAt": "2022-06-14T16:29:16Z",
+      "content": "Directeur de la publication : Edwy Plenel\r\nDirection éditoriale : Stéphane Alliès et Carine Fouteau\r\nLe journal MEDIAPART est édité par la Société Editrice de Mediapart (SAS).\r\nDurée de la société : … [+1034 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Louis Paillat",
+      "title": "Actualité : TW-E7B & TW-ES5A : Yamaha se met au sport et à la réduction de bruit active",
+      "description": "Suite à l’annonce des TW-E3B en juillet 2021 et des TW-E5B en mars dernier, Yamaha dévoile deux nouvelles paires d’écouteurs true wireless : les TW-E7B, modèle haut de gamme, et des TW-ES5A taillés pour le sport.",
+      "url": "https://www.lesnumeriques.com/intra-ecouteur-true-wireless/tw-e7b-tw-es5a-yamaha-se-met-au-sport-et-a-la-reduction-de-bruit-active-n184715.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/184715/2719816b-tw-e7b-tw-es5a-yamaha-se-met-au-sport-et-a-la-reduction-de-bruit-active__1200_630__0-0-2560-1344.jpeg",
+      "publishedAt": "2022-06-07T09:52:00Z",
+      "content": "Suite à lannonce des TW-E3B en juillet 2021 et des TW-E5B en mars dernier, Yamaha dévoile deux nouvelles paires découteurs true wireless : les TW-E7B, modèle haut de gamme, et des TW-ES5A taillés pou… [+3521 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Bastien Lion",
+      "title": "Actualité : Verra-t-on bientôt un boîtier Netflix similaire à l'Apple TV ou au Fire Stick d'Amazon ?",
+      "description": "En quête de nouvelles voies de développement, Netflix pourrait se rapprocher du fournisseur de boîtiers multimédias Roku, selon la presse américaine. Au-delà de l'intérêt matériel, le constructeur s'est bâti une solide réputation dans la publicité.",
+      "url": "https://www.lesnumeriques.com/vie-du-net/verra-t-on-bientot-un-boitier-netflix-similaire-a-l-apple-tv-ou-au-fire-stick-d-amazon-n184923.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/184923/5021ab44-verra-t-on-bientot-un-boitier-netflix-similaire-a-l-apple-tv-ou-le-fire-stick-d-amazon__1200_630__0-429-5000-3054.jpeg",
+      "publishedAt": "2022-06-09T15:37:00Z",
+      "content": "En quête de nouvelles voies de développement, Netflix pourrait se rapprocher du fournisseur de boîtiers multimédias Roku, selon la presse américaine. Au-delà de l'intérêt matériel, le constructeur s'… [+3046 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "ETX",
+      "title": "Actualité : Snapchat veut booster l'engagement avec des stories partagées",
+      "description": "Les réseaux sociaux sont de plus en plus collaboratifs et dévoilent de nouvelles fonctionnalités favorisant les interactions entre les utilisateurs. Une tendance que rejoint à son tour Snapchat avec une innovation : les stories partagées.",
+      "url": "https://www.lesnumeriques.com/vie-du-net/snapchat-veut-booster-l-engagement-avec-des-stories-partagees-n184009.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/184009/ffd4dcf0-snapchat-veut-booster-l-engagement-avec-des-stories-partagees__1200_630__overflow.jpeg",
+      "publishedAt": "2022-05-27T13:39:00Z",
+      "content": "Les réseaux sociaux sont de plus en plus collaboratifs et dévoilent de nouvelles fonctionnalités favorisant les interactions entre les utilisateurs. Une tendance que rejoint à son tour Snapchat avec … [+2413 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Bastien Lion",
+      "title": "Actualité : De nouveau dans la tourmente, PornHub perd ses deux patrons",
+      "description": "De nouvelles révélations concernant des contenus relevant de la pédopornographie sur PornHub ont eu raison des deux patrons de Mindgeek, la maison mère de la plateforme leader de l'industrie du X.",
+      "url": "https://www.lesnumeriques.com/divers/de-nouveau-dans-la-tourmente-pornhub-perd-ses-deux-patrons-n185919.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/185919/d61dfa1d-du-rififi-chez-pornhub__1200_630__0-245-4499-2606.jpeg",
+      "publishedAt": "2022-06-22T14:11:00Z",
+      "content": "PornHub de nouveau sous le feu des critiques, ses deux patrons quittent le navire.\r\nSi vous connaissez PornHub, le nom Mindgeek vous paraît probablement un peu plus obscur. Il s'agit pourtant de l'un… [+1902 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Florian Agez",
+      "title": "Actualité : Summer Game Fest 2022 : le programme des conférences du mardi 14 juin",
+      "description": "Le dernier acte (normalement !) du Summer Game Fest approche. Ce mardi 14 juin, Microsoft propose une petite prolongation de sa grande conférence Xbox et Bethesda de dimanche, tandis qu'Ubisoft donnera des nouvelles d'Assassin's Creed.",
+      "url": "https://www.lesnumeriques.com/jeux-video/summer-game-fest-2022-le-programme-des-conferences-du-mardi-14-juin-n185277.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/185277/1b02d002-summer-game-fest-2022-le-programme-des-conferences-du-mardi-14-juin__1200_630__0-35-1920-1043.jpeg",
+      "publishedAt": "2022-06-14T12:58:00Z",
+      "content": "La franchise Assassin's Creed est l'invitée de toute dernière minute de ce non-E3 2022. © Ubisoft\r\nCette fois, et sauf nouvelle surprise de dernière minute, c'est vraiment la fin. Le mardi 14 juin so… [+2001 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Louis Paillat",
+      "title": "Actualité : SRS-XG300, SRS-XE300 et SRS-XE200 : le nouveau trio d'enceintes portables estivales de Sony",
+      "description": "Sentant l’été approcher, Sony dégaine à l'instant trois nouvelles enceintes Bluetooth, les SRS-XG300, SRS-XE300 et SRS-XE200, pour vous permettre de faire la bamboche au bord de la piscine ou à la plage.",
+      "url": "https://www.lesnumeriques.com/enceintes-transportable/srs-xg300-srs-xe300-et-srs-xe200-le-nouveau-trio-d-enceintes-portables-estivales-de-sony-n184449.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/184449/99d41d2c-srs-xg300-srs-xe300-et-srs-xe200-le-nouveau-trio-estival-de-sony__1200_630__0-210-3000-1785.jpeg",
+      "publishedAt": "2022-06-02T16:31:00Z",
+      "content": "Sentant lété approcher, Sony dégaine à l'instant trois nouvelles enceintes Bluetooth, les SRS-XG300, SRS-XE300 et SRS-XE200, pour vous permettre de faire la bamboche au bord de la piscine ou à la pla… [+3482 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Bastien Lion",
+      "title": "Actualité : One Piece, The Sandman, Wednesday… Toutes les annonces de la Netflix Geeked Week",
+      "description": "Quelles sont les annonces de Netflix pendant son événement Geeked Week ? La plateforme de streaming ne lésine pas pour montrer de nouvelles images de ses futures séries. Suivez le guide pour en apprendre un peu plus sur tous ses projets.",
+      "url": "https://www.lesnumeriques.com/vie-du-net/one-piece-the-sandman-wednesday-toutes-les-annonces-de-la-netflix-geeked-week-n184733.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/184733/3c330288-one-piece-the-sandman-wednesday-toutes-les-annonces-de-la-netflix-geeked-week__1200_630__0-3-2535-1333.jpeg",
+      "publishedAt": "2022-06-07T15:17:00Z",
+      "content": "Quelles sont les annonces de Netflix pendant son événement Geeked Week ? La plateforme de streaming ne lésine pas pour montrer de nouvelles images de ses futures séries. Suivez le guide pour en appre… [+5089 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Fabien Pionneau",
+      "title": "Actualité : Montres connectées Garmin Venu, Venu 2, Venu 2S ou Venu 2 Plus : laquelle choisir ?",
+      "description": "Malgré la sortie de la Venu 2, Garmin continue à commercialiser la Venu première du nom à un tarif inférieur. Est-ce une bonne affaire, ou vaut-il mieux dépenser un peu plus pour s'offrir une des trois nouvelles versions ?",
+      "url": "https://www.lesnumeriques.com/montre-connectee/montres-connectees-garmin-venu-venu-2-venu-2s-ou-venu-2-plus-laquelle-choisir-n182701.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/182701/10c2fee0-montres-connectees-garmin-venu-venu-2-venu-2s-ou-venu-2-plus-laquelle-choisir__1200_630__0-125-3000-1700_wtmk.jpeg",
+      "publishedAt": "2022-05-27T12:10:00Z",
+      "content": "Malgré la sortie de la Venu 2, Garmin continue à commercialiser la Venu première du nom à un tarif inférieur. Est-ce une bonne affaire, ou vaut-il mieux dépenser un peu plus pour s'offrir une des tro… [+7384 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "RPB",
+      "title": "WWDC 2022 : iOS 16, Mac… comment suivre la Keynote Apple en direct",
+      "description": "Apple donne le coup d'envoi du WWDC 2022, sa conférence annuelle dédiée aux développeurs avec une Keynote très attendue. Il devrait y être question de nombreuses nouveautés logicielles (iOS 16, Swift...) mais on s'attend aussi à la présentation de Macs avec p…",
+      "url": "https://www.presse-citron.net/keynote-apple-wwdc-2022-keynote-direct/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/05/apple-wwdc-2022.jpg",
+      "publishedAt": "2022-06-06T11:39:34Z",
+      "content": "Lundi 6 juin à 19h00 (Paris) Apple diffusera une keynote qui lance la semaine de conférences WWDC 2022. La Worldwide Developers Conference est un événement à l’origine plutôt dédié aux développeurs, … [+2952 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Cassim Ketfi",
+      "title": "GeForce Now : les nouvelles sorties de Steam débarquent directement dans le service",
+      "description": "Le mois de juin est l'occasion pour Nvidia d'ajouter des jeux à la bibliothèque de GeForce Now. On note l'arrivée de plusieurs jeux dès leurs sorties sur Steam.Le mois de juin commence mi-figue mi-raison pour GeForce Now. Le service de Cloud Gaming de Nvidia …",
+      "url": "https://www.frandroid.com/marques/nvidia/1353307_geforce-now-juin-2022",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/06/leap-jeu.jpg",
+      "publishedAt": "2022-06-02T13:01:29Z",
+      "content": "Le mois de juin est l'occasion pour Nvidia d'ajouter des jeux à la bibliothèque de GeForce Now. On note l'arrivée de plusieurs jeux dès leurs sorties sur Steam.\r\nLe jeu Leap // Source : Blue Isle Stu… [+2257 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Geoffroy Husson",
+      "title": "Les Samsung Galaxy Watch 4 profitent de nouvelles fonctions en attendant la Watch 5",
+      "description": "Samsung a déployé en bêta une nouvelle version de Wear OS pour les Galaxy Watch 4 et Watch 4 Classic afin d'intégrer un meilleur système de saisie et de notifications, ainsi que des nouveautés pour les cadrans. Alors que la présentation de la Samsung Galaxy W…",
+      "url": "https://www.frandroid.com/marques/samsung/1352931_les-samsung-galaxy-watch-4-profitent-de-nouvelles-fonctions-en-attendant-la-watch-5",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2021/08/samsung-galaxy-watch-4-classic-8.jpg",
+      "publishedAt": "2022-06-02T10:15:31Z",
+      "content": "Samsung a déployé en bêta une nouvelle version de Wear OS pour les Galaxy Watch 4 et Watch 4 Classic afin d'intégrer un meilleur système de saisie et de notifications, ainsi que des nouveautés pour l… [+2793 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Nathan Le Gohlisse",
+      "title": "App Store : Apple imposera de nouvelles règles aux développeurs le 30 juin",
+      "description": "À compter du 30 juin, les changements préalablement annoncés sur l'App Store entreront en vigueur. Ces nouvelles règles vont notamment imposer aux développeurs de rendre plus simple la suppression d'un compte ou de certaines données stockées sur une applicati…",
+      "url": "https://www.frandroid.com/marques/apple/1345551_app-store-apple-imposera-de-nouvelles-regles-aux-developpeurs-le-30-juin",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2021/12/apple-store-fifth-avenue-scaled-e1638963992845.jpg",
+      "publishedAt": "2022-05-25T13:05:01Z",
+      "content": "À compter du 30 juin, les changements préalablement annoncés sur l'App Store entreront en vigueur. Ces nouvelles règles vont notamment imposer aux développeurs de rendre plus simple la suppression d'… [+2411 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Le Monde",
+      "title": "Guerre en Ukraine en direct : Moscou accuse Berlin d’« hystérie russophobe »",
+      "description": "Cette déclaration survient alors que Russie commémore l’invasion de l’URSS par les nazis, dans un contexte de tensions entre les deux pays. Médecins sans frontières s’alarme du « niveau choquant » de souffrance des civils, dont plus de 40 % sont des personnes…",
+      "url": "https://www.lemonde.fr/international/live/2022/06/22/guerre-en-ukraine-en-direct-moscou-accuse-berlin-d-hysterie-russophobe_6131477_3210.html",
+      "urlToImage": "https://img.lemde.fr/2022/06/05/87/0/7585/3792/1440/720/60/0/4752d71_2e1cd6f7f5404117871de350a43b6c8c-2e1cd6f7f5404117871de350a43b6c8c-0.jpg",
+      "publishedAt": "2022-06-22T13:55:34Z",
+      "content": "Une délégation du ministère de la défense turc était à Moscou, mercredi, pour de nouvelles discussions destinées à permettre de sortir par la mer Noire les céréales bloquées en Ukraine à cause de lof… [+1613 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Le Monde",
+      "title": "Guerre en Ukraine en direct : Ursula von der Leyen appelle « le Conseil européen à se montrer à la hauteur de la responsabilité historique »",
+      "description": "L’exécutif européen a rendu la semaine dernière un avis positif sur l’octroi à l’Ukraine et à la Moldavie du statut de candidat à l’UE, l’assortissant de conditions sur la poursuite de réformes, ce qui ouvrirait la voie à un long processus vers l’adhésion.",
+      "url": "https://www.lemonde.fr/international/live/2022/06/22/guerre-en-ukraine-en-direct-ursula-von-der-leyen-appelle-le-conseil-europeen-a-se-montrer-a-la-hauteur-de-la-responsabilite-historique_6131477_3210.html",
+      "urlToImage": "https://img.lemde.fr/2022/06/17/1128/0/7760/3880/1440/720/60/0/9141aac_5482759-01-06.jpg",
+      "publishedAt": "2022-06-22T19:14:43Z",
+      "content": "Lors dun discours en ligne en marge du sommet virtuel des Brics (Brésil, Russie, Inde, Chine, Afrique du Sud), groupe déconomies émergentes qui représentent plus de 40 % de la population mondiale et … [+1846 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Elisa Rahouadj",
+      "title": "God of War Ragnarök : un leak lui donne une date de sortie",
+      "description": "Jason Schreier a encore frappé, et il revient cette fois-ci avec une fenêtre de sortie pour God of War Ragnarök. \nGod of War Ragnarök : un leak lui donne une date de sortie",
+      "url": "https://www.journaldugeek.com/2022/06/11/god-of-war-ragnarok-un-leak-lui-donne-une-date-de-sortie/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/09/template-jdg-2021-09-10t090825-085.jpg",
+      "publishedAt": "2022-06-11T07:00:42Z",
+      "content": "Jason Schreier a encore frappé, et il revient cette fois-ci avec une fenêtre de sortie pour God of War Ragnarök.Cela fait quelques mois que Sony n’a pas évoqué sa prochaine grosse exclusivité, on a n… [+1678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Olivier",
+      "title": "Le mystérieux smartphone pliable de Google reporté au printemps ?",
+      "description": "Maintenant que Google a confirmé l'existence de la Pixel Watch, c'est un autre appareil qui la remplace chez les fuiteurs : le Pixel pliable ! Ce produit demeure un mystère, malgré l'intérêt évident du moteur de recherche pour ce marché.\nLe mystérieux smartph…",
+      "url": "https://www.journaldugeek.com/2022/05/29/le-mysterieux-smartphone-pliable-de-google-reporte-au-printemps/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/sans-titre-4-60.jpg",
+      "publishedAt": "2022-05-29T09:00:45Z",
+      "content": "Maintenant que Google a confirmé l'existence de la Pixel Watch, c'est un autre appareil qui la remplace chez les fuiteurs : le Pixel pliable ! Ce produit demeure un mystère, malgré l'intérêt évident … [+1726 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Olivier",
+      "title": "Des accents régionaux dans Waze : « Attenchion biloute » !",
+      "description": "Derrière le volant, il est évidemment impératif de rester concentré, mais avoir à ses côtés un copilote pour passer le temps peut être très important. Et quand on n'a personne sous la main, Waze et ses nombreuses voix sont là !\nDes accents régionaux dans Waze…",
+      "url": "https://www.journaldugeek.com/2022/06/06/des-accents-regionaux-dans-waze-attenchion-biloute/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/sans-titre-4-4.png",
+      "publishedAt": "2022-06-06T08:00:34Z",
+      "content": "Derrière le volant, il est évidemment impératif de rester concentré, mais avoir à ses côtés un copilote pour passer le temps peut être très important. Et quand on n'a personne sous la main, Waze et s… [+1815 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Hadrien Augusto",
+      "title": "Tout l’espoir de Boeing repose sur cet avion",
+      "description": "Il a beau avoir 20 ans d’âge, il sera la nouvelle vitrine technologique de Boeing. Un avion-laboratoire qui reprendra du service pour six mois d’essais.",
+      "url": "https://www.presse-citron.net/?p=503898",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/06/Boeing-777-ecodemonstrator.jpg",
+      "publishedAt": "2022-06-21T18:00:48Z",
+      "content": "Le Boeing 777 fait partie des best-seller de Boeing, après les populaires 737 et 747. Lavion long-courrier, lun des plus sûrs du marché, connaît une longue carrière. Si sa dernière version, le 777X, … [+2827 chars]"
+    },
+    {
+      "source": { "id": null, "name": "01net.com" },
+      "author": "Nathan",
+      "title": "Nouvelles applis, bureau 3D, films immersifs… Comment Apple prépare l’arrivée de son casque VR",
+      "description": "Et si la star de la conférence WWDC 2022 d'Apple était un produit absent ? Extrêmement attendu, le casque de réalité mixte d'Apple a peu de chances de se montrer à la conférence. Mais cela ne veut pas dire que la firme de Cupertino ne pourrait pas distiller q…",
+      "url": "https://www.01net.com/actualites/nouvelles-applis-bureau-3d-films-immersifs-comment-apple-prepare-larrivee-de-son-casque-vr.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2022/05/Apple-VR.jpg",
+      "publishedAt": "2022-06-06T10:11:09Z",
+      "content": "Et si la star de la conférence WWDC 2022 d’Apple était un produit absent ? Extrêmement attendu, le casque de réalité mixte d’Apple a peu de chances de se montrer à la conférence. Mais cela ne veut pa… [+3843 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Corentin Bechade",
+      "title": "Actualité : Apple iPad 10 : enfin un port USB-C sur la tablette d'entrée de gamme ?",
+      "description": "Pas attendu avant quelques mois, le nouvel iPad 10 “classique” devrait enfin transformer une recette qui commençait à montrer son âge. D’après de nouvelles fuites, la tablette d'Apple devrait voir évoluer son écran et sa connectique a minima.",
+      "url": "https://www.lesnumeriques.com/tablette-tactile/apple-ipad-10-enfin-un-port-usb-c-sur-la-tablette-d-entree-de-gamme-n185347.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/185347/69dc68b8-apple-ipad-10-enfin-de-l-usb-c-sur-la-tablette-entree-de-gamme__1200_630__overflow.jpeg",
+      "publishedAt": "2022-06-15T07:59:00Z",
+      "content": "Pas attendu avant quelques mois, le nouvel iPad 10 classique devrait enfin transformer une recette qui commençait à montrer son âge. Daprès de nouvelles fuites, la tablette d'Apple devrait voir évolu… [+1570 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Elisa Rahouadj",
+      "title": "State of Play : les 5 annonces qu’il ne fallait surtout pas rater !",
+      "description": "Marvel's Spider-Man, Horizon, Stray, ... Il y a avait du lourd lors du dernier State of Play de Sony. \nState of Play : les 5 annonces qu’il ne fallait surtout pas rater !",
+      "url": "https://www.journaldugeek.com/2022/06/03/state-of-play-les-5-annonces-quil-ne-fallait-surtout-pas-rater/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/sans-titre-21.jpg",
+      "publishedAt": "2022-06-03T09:00:43Z",
+      "content": "Marvel's Spider-Man, Horizon, Stray, ... Il y a avait du lourd lors du dernier State of Play de Sony.Ce 2 juin dans la nuit, Sony a tenu un State of Play qui a ouvert la saisons des annonces vidéolud… [+2664 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Julie Hay",
+      "title": "Star Wars : Andor se dévoile avec un étonnant trailer",
+      "description": "Lucasfilm vient de dévoiler la date de sortie d'Andor, le préquel de Rogue One avec Diego Luna qui doit débarquer après Obi-Wan. \nStar Wars : Andor se dévoile avec un étonnant trailer",
+      "url": "https://www.journaldugeek.com/2022/05/27/star-wars-andor-se-devoile-avec-un-etonnant-trailer/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/03/sans-titre146.jpg",
+      "publishedAt": "2022-05-27T08:00:05Z",
+      "content": "Lucasfilm vient de dévoiler la date de sortie d'Andor, le préquel de Rogue One avec Diego Luna qui doit débarquer après Obi-Wan.Ce vendredi 27 mai va être chargé pour les fans de la saga Star Wars. A… [+2920 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Mediapart" },
+      "author": "Aurélien Defer",
+      "title": "Sur les réseaux sociaux, les jeunes chercheurs obligés de «se vendre»",
+      "description": "Précaires et soumises à une concurrence croissante, les nouvelles générations de chercheurs sont incitées à développer leur « marque » personnelle sur Twitter, Instagram voire TikTok. Non sans effets pervers.",
+      "url": "https://www.mediapart.fr/journal/france/280522/sur-les-reseaux-sociaux-les-jeunes-chercheurs-obliges-de-se-vendre",
+      "urlToImage": "https://static.mediapart.fr/etmagine/og/journal/files/2022/05/28/instagram.png",
+      "publishedAt": "2022-05-28T09:45:38Z",
+      "content": "Directeur de la publication : Edwy Plenel\r\nDirection éditoriale : Stéphane Alliès et Carine Fouteau\r\nLe journal MEDIAPART est édité par la Société Editrice de Mediapart (SAS).\r\nDurée de la société : … [+1034 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Setra",
+      "title": "Nothing Phone 1 : on en sait plus sur le futur smartphone de Carl Pei",
+      "description": "D’après une nouvelle rumeur, le smartphone de Nothing, la marque de Carl Pei, serait lancé le 21 juillet et son prix serait de 500 euros. Ainsi, il s’agirait bien d’un smartphone milieu de gamme qui utilisera une puce Qualcomm Snapdragon.",
+      "url": "https://www.presse-citron.net/?p=500449",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/03/Nothing-levee-de-fonds-smartphone.jpg",
+      "publishedAt": "2022-05-26T14:00:15Z",
+      "content": "Après avoir quitté OnePlus en 2020, son co-fondateurs, Carl Pei, sest lancée dans une nouvelle aventure baptisée Nothing. Cette marque a déjà commercialisé son premier produit, les écouteurs Nothing … [+3191 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Olivier",
+      "title": "Android 13 : on fait le point sur les smartphones compatibles",
+      "description": "Comme chaque année, le lancement d'une nouvelle version d'Android entraîne des interrogations chez de nombreux utilisateurs de smartphones : l'appareil sera-t-il compatible avec la mise à jour du système d'exploitation ?\nAndroid 13 : on fait le point sur les …",
+      "url": "https://www.journaldugeek.com/2022/06/04/android-13-on-fait-le-point-sur-les-smartphones-compatibles/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/sans-titre-4-2.jpg",
+      "publishedAt": "2022-06-04T14:00:50Z",
+      "content": "Comme chaque année, le lancement d'une nouvelle version d'Android entraîne des interrogations chez de nombreux utilisateurs de smartphones : l'appareil sera-t-il compatible avec la mise à jour du sys… [+2172 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Tristan",
+      "title": "iPadOS 16 : cette fonctionnalité ne sera réservée qu’à certaines tablettes",
+      "description": "Apple a fait ce lundi soir la présentation d'iPadOS 16. Mais la mise à jour ne sera pas disponible pour tous de la même manière. \niPadOS 16 : cette fonctionnalité ne sera réservée qu’à certaines tablettes",
+      "url": "https://www.journaldugeek.com/?p=50348547",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/apple-wwdc22-ipados16-stage-manager.jpg",
+      "publishedAt": "2022-06-09T10:30:03Z",
+      "content": "Apple a fait ce lundi soir la présentation d'iPadOS 16. Mais la mise à jour ne sera pas disponible pour tous de la même manière.Depuis la conférence de la WWDC dApple lundi, le monde des nouvelles te… [+2379 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Elisa Rahouadj",
+      "title": "Malgré les critiques, Diablo Immortal est une poule aux œufs d’or",
+      "description": "Diablo Immortal rapporte des dizaines de millions de dollars si l'on en croit les derniers chiffres communiqués. \nMalgré les critiques, Diablo Immortal est une poule aux œufs d’or",
+      "url": "https://www.journaldugeek.com/2022/06/20/malgre-les-critiques-diablo-immortal-est-une-poule-aux-oeufs-dor/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/template-jdg-2022-06-20t101536-385.jpg",
+      "publishedAt": "2022-06-20T09:30:50Z",
+      "content": "Diablo Immortal rapporte des dizaines de millions de dollars si l'on en croit les derniers chiffres communiqués.La controverse n’arrête en aucun cas Blizzard. Cela fait déjà deux petites semaines que… [+2267 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Amandine Jonniaux",
+      "title": "Fake news : Adobe lance un outil gratuit pour authentifier une image",
+      "description": "Adobe a peut-être trouvé la solution pour lutter contre la manipulation des images en ligne.\nFake news : Adobe lance un outil gratuit pour authentifier une image",
+      "url": "https://www.journaldugeek.com/2022/06/14/fake-news-adobe-lance-un-outil-gratuit-pour-authentifier-une-image/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/template-jdg-2022-06-14t105458-018.jpg",
+      "publishedAt": "2022-06-14T11:30:58Z",
+      "content": "Adobe a peut-être trouvé la solution pour lutter contre la manipulation des images en ligne.À l’heure des deepfakes et des retouches numériques, modifier une image pour changer son sens est devenu pr… [+2425 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Clubic" },
+      "author": "Stéphane Ficca",
+      "title": "iOS 16 nous offre enfin cette option Wi-Fi que nous avons tant attendue sur iPhone",
+      "description": "Le futur iOS 16 d'Apple va proposer de nouvelles options essentielles concernant le WiFi.",
+      "url": "https://www.clubic.com/pro/entreprises/apple/actualite-426654-ios-16-nous-offre-enfin-cette-option-wi-fi-que-nous-avons-tant-attendu-sur-iphone.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/2012856/raw",
+      "publishedAt": "2022-06-12T09:30:00Z",
+      "content": "Le futur iOS 16 d'Apple va proposer de nouvelles options essentielles concernant le WiFi.\r\nIl sera notamment possible de visualiser le mot de passe du réseau auquel on est connecté !\r\nLe futur iOS 16… [+1231 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Marco Mosca",
+      "title": "Actualité : Fnac Darty ouvre une \"Maison de demain\" éphémère au cœur de Paris",
+      "description": "VIDÉO // Fnac-Darty propose un nouveau concept de \"Maison de demain\" dédiée à l'innovation. L'occasion pour le grand public de découvrir les nouvelles technologies dans chacune de ses pièces. Un espace ouvert du 2 au 12 juin en plein cœur de Paris.",
+      "url": "https://www.lesnumeriques.com/electromenager/fnac-darty-ouvre-une-maison-de-demain-ephemere-au-coeur-de-paris-n184489.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/184489/2a9c89c3-maison-de-demain-fnac-darty_png__1200_630__overflow.jpg",
+      "publishedAt": "2022-06-03T16:00:00Z",
+      "content": "VIDÉO // Fnac-Darty propose un nouveau concept de \"Maison de demain\" dédiée à l'innovation. L'occasion pour le grand public de découvrir les nouvelles technologies dans chacune de ses pièces. Un espa… [+3044 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Bastien Lion",
+      "title": "Actualité : Netflix dévoile ses films sur Pinocchio et Marilyn Monroe",
+      "description": "Netflix a diffusé de nouvelles images de deux projets très attendus pour la fin 2022. D'un côté, le (potentiellement superbe) Pinocchio en stop motion de Guillermo del Toro. De l'autre, le mystérieux biopic de Marilyn Monroe, Blonde, avec Ana de Armas.",
+      "url": "https://www.lesnumeriques.com/vie-du-net/netflix-devoile-ses-films-sur-pinocchio-et-marilyn-monroe-n185491.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/185491/48c00364-netflix-devoile-ses-films-sur-pinocchio-et-marilyn-monroe__1200_630__0-123-2762-1573.jpeg",
+      "publishedAt": "2022-06-16T15:12:00Z",
+      "content": "Netflix a diffusé de nouvelles images de deux projets très attendus pour la fin 2022. D'un côté, le (potentiellement superbe) Pinocchio en stop motion de Guillermo del Toro. De l'autre, le mystérieux… [+2031 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Nicolas Guyot",
+      "title": "Live Fnac-Darty Maison de Demain : jusqu’à 10 000€ de cartes cadeaux à gagner !",
+      "description": "Mardi 7 juin à 20h00, le groupe Fnac-Darty vous donne rendez-vous pour un grand live en direct de la maison de demain. L’occasion de découvrir les innovations et produits high-tech de la maison de demain, de gagner de nombreux cadeaux et, aussi, de passer un …",
+      "url": "https://www.lesnumeriques.com/publicite/live-fnac-darty-maison-de-demain-jusqu-a-10-000-de-cartes-cadeaux-a-gagner-184503.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/native/18/184503/422aa376-live-fnac-darty-maison-de-demain-jusqu-a-10-000-de-cartes-cadeaux-a-gagner__1200_630__0-311-3000-1886.jpeg",
+      "publishedAt": "2022-06-07T14:00:00Z",
+      "content": "Mardi 7 juin à 20h00, le groupe Fnac-Darty vous donne rendez-vous pour un grand live en direct de la maison de demain. Loccasion de découvrir les innovations et produits high-tech de la maison de dem… [+2315 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Romain Challand",
+      "title": "Actualité : Téléviseur de moins de 50 pouces : un an après, le LG 48C1 devient notre meilleur rapport qualité/prix",
+      "description": "Déjà impressionnant de qualité lors de sa sortie en 2021, le LG 48C1 se serait-il bonifié avec le temps ? S'il a perdu une étoile entretemps pour cause de nombreuses nouvelles références sur le marché, la chute de son prix en fait notre meilleur rapport quali…",
+      "url": "https://www.lesnumeriques.com/tv-televiseur/televiseur-de-moins-de-50-pouces-un-an-apres-le-lg-48c1-devient-notre-meilleur-rapport-qualite-prix-n186155.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/186155/ba939cf4-televiseur-un-an-apres-le-lg-48c1-devient-notre-meilleur-rapport-qualite-prix__1200_630__0-270-1200-900.jpeg",
+      "publishedAt": "2022-06-23T14:53:00Z",
+      "content": "Déjà impressionnant de qualité lors de sa sortie en 2021, le LG 48C1 se serait-il bonifié avec le temps ? S'il a perdu une étoile entretemps pour cause de nombreuses nouvelles références sur le march… [+1686 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Le Monde avec AFP",
+      "title": "L’écrivain israélien Avraham Yehoshua est mort",
+      "description": "Connu pour son engagement anti-occupation, il a été récompensé par le prix Médicis étranger en 2012 pour son livre « Rétrospective ».",
+      "url": "https://www.lemonde.fr/disparitions/article/2022/06/14/l-ecrivain-israelien-avraham-yehoshua-est-mort_6130275_3382.html",
+      "urlToImage": "https://img.lemde.fr/2022/06/14/0/4/3991/2661/1440/960/60/0/7a68a61_5454290-01-06.jpg",
+      "publishedAt": "2022-06-14T11:16:56Z",
+      "content": "Lécrivain israélien Avraham B. Yehoshua posant avec son livre « Rétrospective », récompensé par le prix étranger Médicis en 2012, est mort à Tel-Aviv, mardi 14 juin, à lâge de 85 ans. BERTRAND GUAY /… [+2696 chars]"
+    },
+    {
+      "source": { "id": "liberation", "name": "Libération" },
+      "author": "LIBERATION, Lilian Alemagna",
+      "title": "Macron charge Borne de nouvelles consultations pour former un «gouvernement d’action»",
+      "description": "Dans un entretien à l’AFP, le chef de l’Etat confirme sa confiance dans sa Première ministre et se donne du temps pour mettre la pression sur ses oppositions et remodeler son dispositif.",
+      "url": "https://www.liberation.fr/politique/macron-charge-borne-de-nouvelles-consultations-pour-former-un-gouvernement-daction-20220625_KERIWY73WNAAROP4J7ZLWSQTME/",
+      "urlToImage": "https://www.liberation.fr/resizer/ALhQ2Z3guAHEcts2hlbeNRSFHKM=/1200x630/filters:format(jpg):quality(70):focal(1297x491:1307x501)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/WRTPQ7NA5BCSJKVXG2665GUHKY.JPG",
+      "publishedAt": "2022-06-25T20:17:21Z",
+      "content": "Lultimatum est terminé. Enfin presque Dans un entretien à lAFP ce dimanche, Emmanuel Macron assure avoir demandé à la Première ministre, Elisabeth Borne, de lui présenter en fin de semaine prochaine … [+1950 chars]"
+    },
+    {
+      "source": { "id": "liberation", "name": "Libération" },
+      "author": "LIBERATION, AFP",
+      "title": "Prélèvements d’eau du groupe Danone à Volvic: le tribunal ordonne deux nouvelles expertises",
+      "description": "Saisi par le propriétaire d’une pisciculture à sec qui incrimine les gros prélèvements d’eau de Danone à Volvic, le tribunal administratif de Clermont-Ferrand ordonne ce mercredi de nouvelles expertises pour trancher sur la responsabilité de l’Etat.",
+      "url": "https://www.liberation.fr/environnement/prelevements-deau-du-groupe-danone-a-volvic-le-tribunal-ordonne-deux-nouvelles-expertises-20220525_2VR3CVD5SFA7PCRB55YS4QEMZA/",
+      "urlToImage": "https://www.liberation.fr/resizer/15EESuti31fQ_VYdSNjePTOQBrY=/1200x630/filters:format(jpg):quality(70):focal(5016x2995:5026x3005)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/ALHUTZTCC5AG5DRXT5QBUER43A.jpg",
+      "publishedAt": "2022-05-25T08:39:31Z",
+      "content": "Pour la Confédération paysanne, «ce combat est aussi celui contre laccaparement de leau par des intérêts privés». Ce mercredi,le tribunal administratif de Clermont-Ferrand (Puy-de-Dôme) a ordonné une… [+2108 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Monde-diplomatique.fr" },
+      "author": "Rafael Kandiyoti",
+      "title": "De nouvelles routes pour le pétrole et le gaz",
+      "description": "Tokyo a accordé, le 13 avril 2005, des droits de forage à des compagnies pétrolières en mer de Chine, à proximité des îles appelées Senkaku par les Japonais et Diaoyu par les Chinois, qui en réclament la souveraineté. Cette querelle illustre la concurrence à …",
+      "url": "https://www.monde-diplomatique.fr/2005/05/KANDIYOTI/12220",
+      "urlToImage": "https://www.monde-diplomatique.fr/local/couv/2005-05-r.jpg",
+      "publishedAt": "2022-06-17T14:13:58Z",
+      "content": "Léconomie russe repose sur ses exportations de pétrole brut et de gaz naturel. Or lextraordinaire dynamisme des géants industriels de lAsie orientale lui offre une occasion idéale de valoriser ce pot… [+14045 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Clubic" },
+      "author": "/auteur/407247-merouan-goumiri.html",
+      "title": "Vous avez vraiment trop d'amis ? WhatsApp ne vous oublie pas avec cette fonctionnalité",
+      "description": "Le groupe Meta continue sur sa lancée pour alimenter WhatsApp, sa célèbre application de messagerie instantanée, en nouvelles fonctionnalités.",
+      "url": "https://www.clubic.com/application-mobile/whatsapp/actualite-426618-vous-avez-vraiment-trop-d-amis-whatsapp-ne-vous-oublie-pas-avec-cette-fonctionnalite.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/1997349/raw",
+      "publishedAt": "2022-06-11T12:00:00Z",
+      "content": "Il y a quelques semaines, WhatsApp nous annonçait que le nombre maximal de personnes pouvant intégrer un groupe allait considérablement augmenter. Cest désormais chose faite, comme nous lapprend WABe… [+812 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Clubic" },
+      "author": "Stéphane Ficca",
+      "title": "Une fonctionnalité attendue depuis très longtemps pourrait arriver sur l'iPhone 14 Pro",
+      "description": "Selon de nouvelles rumeurs, les futurs iPhone haut de gamme pourraient s'offrir une fonctionnalité réclamée depuis quelques années.",
+      "url": "https://www.clubic.com/pro/entreprises/apple/actualite-424437-une-fonctionnalite-attendue-depuis-tres-longtemps-pourrait-arriver-sur-l-iphone-14-pro.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/1921369/raw",
+      "publishedAt": "2022-05-25T15:28:00Z",
+      "content": "Selon de nouvelles rumeurs, les futurs iPhone haut de gamme pourraient s'offrir une fonctionnalité réclamée depuis quelques années.\r\nUne fonctionnalité qui permettrait d'afficher en permanence certai… [+1676 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Clubic" },
+      "author": "Nerces",
+      "title": "La sortie des GeForce RTX 4000 pourrait glisser jusqu'au CES 2023 pour certains modèles",
+      "description": "Les nouvelles générations de cartes graphiques ne semblent pas devoir arriver avant le mois d'octobre, chez NVIDIA comme chez AMD.",
+      "url": "https://www.clubic.com/pro/entreprises/nvidia/actualite-425724-la-sortie-des-geforce-rtx-4000-pourrait-glisser-jusqu-au-ces-2023-pour-certains-modeles.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/1983846/raw",
+      "publishedAt": "2022-06-06T10:30:00Z",
+      "content": "Les nouvelles générations de cartes graphiques ne semblent pas devoir arriver avant le mois d'octobre, chez NVIDIA comme chez AMD.\r\nLes nouvelles se suivent et ne se ressemblent pas tout à fait conce… [+885 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Chris' Klippel",
+      "title": "Les jeux vidéo arrivent aux Grammy Awards, pour quel prix ?",
+      "description": "Le jeu vidéo va officiellement entrer dans les catégories officielles de la prestigieuse cérémonie des Grammy Awards !",
+      "url": "https://www.presse-citron.net/les-jeux-video-arrivent-aux-grammy-awards-pour-quel-prix/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/06/grammy-awards-jeux-video.jpg",
+      "publishedAt": "2022-06-14T16:00:25Z",
+      "content": "Lacadémie des Grammy Awards a annoncé cette semaine sur son site officiel que le jeu vidéo allait officiellement rejoindre la cérémonie grâce aux cinq nouvelles catégories qui arriveront dès 2023 au … [+2427 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Setra",
+      "title": "Android 13 se rapproche de la version finale",
+      "description": "Google vient d’annoncer la troisième beta d’Android 13, le futur concurrent d’iOS 16. Avec cette nouvelle beta, le système d’exploitation atteint la « stabilité de la plateforme » et se rapproche de la version finale. Google demande par ailleurs aux développe…",
+      "url": "https://www.presse-citron.net/android-13-se-rapproche-de-la-version-finale/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/05/android-13-dossier-nouveautes.jpg",
+      "publishedAt": "2022-06-09T14:30:58Z",
+      "content": "Alors quApple vient de présenter iOS 16 lors de sa conférence WWDC, Google publie un billet de blog annonçant la troisième beta de la nouvelle mouture de son système dexploitation, Android 13. Pour r… [+2455 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Tristan Carballeda",
+      "title": "La voiture la plus vendue au monde en 2021 est hybride",
+      "description": "Le classement des 10 voitures neuves les plus vendues en 2021 sacre le Japon et les SUV qui prennent les premières places.",
+      "url": "https://www.presse-citron.net/?p=503881",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/05/Hybride-voiture.jpg",
+      "publishedAt": "2022-06-21T14:30:06Z",
+      "content": "Le site dinformation spécialisée dans le marché automobile Motor1 a publié son classement des 10 voitures les plus vendues dans le monde en 2021. Alors que ce classement prend en compte le marché eur… [+2358 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "RPB",
+      "title": "Waze parle enfin Toulousain, Marseillais et Ch’ti, comment l’activer",
+      "description": "Waze vient d'ajouter depuis le 31 mai 2022, trois nouveaux accents voix : toulousain, marseillais et ch'ti.",
+      "url": "https://www.presse-citron.net/waze-parle-enfin-toulousain-marseillais-et-chti-comment-lactiver/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2019/09/waze-controle-vocal.jpg",
+      "publishedAt": "2022-06-02T05:30:16Z",
+      "content": "La Dépêche du Midi révèle que Waze vient d’ajouter trois nouveaux accents voix à la célèbre application. En lieu et place de la voix de synthèse qui vous annonce normalement votre chemin avec un acce… [+2148 chars]"
+    }
+  ]
+}
